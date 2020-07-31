@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"hellolawyerd9bb3f23": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
