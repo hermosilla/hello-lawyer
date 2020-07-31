@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hellolawyer-dev-95634-authRole",
+            "UnauthRoleArn": "arn:aws:iam::265800223303:role/amplify-hellolawyer-dev-95634-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::265800223303:role/amplify-hellolawyer-dev-95634-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-hellolawyer-dev-95634-deployment",
+            "UnauthRoleName": "amplify-hellolawyer-dev-95634-unauthRole",
+            "StackName": "amplify-hellolawyer-dev-95634",
+            "StackId": "arn:aws:cloudformation:eu-central-1:265800223303:stack/amplify-hellolawyer-dev-95634/5bc23bc0-d303-11ea-9295-029363dcbd8e",
+            "AmplifyAppId": "dqgk4bvugfjbf"
+        }
+    }
+}
